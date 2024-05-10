@@ -22,7 +22,7 @@ This sorting visualizer provides a graphical representation of different sorting
 
 1. Clone or download the project repository to your local machine.
 2. Open the project directory in your preferred code editor or IDE.
-3. Run the the following comands in terminal
+3. Run the the following commands in terminal
      - cd sorting-visualizer-sorting
      - cd sorting
      - npm init -y
@@ -45,6 +45,6 @@ Contributions to this project are welcome! If you have any suggestions, bug fixe
 
 ## Credits
 
-This project was created by [Vinit]. It is inspired by similar sorting visualizer projects available online.
+This project was created by Vinit. It is inspired by similar sorting visualizer projects available online.
 
 
